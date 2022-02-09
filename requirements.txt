@@ -1,0 +1,9 @@
+sklearn
+pandas
+numpy
+streamlit
+pickle5
+spacy
+texthero
+textblob
+langdetect
